@@ -1,0 +1,5 @@
+## run project 1
+go run main.go  "Australia Canada Germany Australia Australia Japan Japan Canada Canada Canada Canada Canada Taiwan Japan Korean Angola Belize Ukraine Ukraine Ukraine Latvia Latvia Australia Canada Germany Australia Australia Japan Japan Canada Canada Canada Canada Canada Taiwan Japan Korean Angola Belize Ukraine Ukraine Ukraine Latvia Latvia Denmark"
+
+## run project 2
+go run main.go GoLang_Test.txt
